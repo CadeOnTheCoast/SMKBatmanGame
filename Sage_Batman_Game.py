@@ -154,7 +154,7 @@ def mystery_bear(number):
         else:
             speak("That\'s incorrect, why don\'t you try another question")
 
-#functions that I still need to create
+#functions that I still need to create need to think if there's a way to be more concise
 #def fly():
 
 #def batmobile():
